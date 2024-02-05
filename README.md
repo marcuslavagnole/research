@@ -9,7 +9,7 @@
 -->
 ### Methods
 
-- Nascimento, M. L., Gonçalves, K. C. M. (2024+). Bayesian quantile regression models for complex survey data under informative sampling. To appear in the _Journal of Survey Statistics and Methodology_.
+- Nascimento, M. L., Gonçalves, K. C. M. (2024). Bayesian quantile regression models for complex survey data under informative sampling. To appear in the _Journal of Survey Statistics and Methodology_.
 
 ### Prior to DSc
 
