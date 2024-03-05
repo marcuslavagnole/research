@@ -7,12 +7,14 @@
 
 ### Pre-Doctoral
 -->
-### Methods
+### Statistics
 
 - Nascimento, M. L., Gonçalves, K. C. M. Bayesian quantile regression models for complex survey data under informative sampling. To appear in the _Journal of Survey Statistics and Methodology_. <br> 
   [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
-### Prior to DSc
+### Health & Social Sciences 
+
+### Pre-Doctoral
 
 - Nascimento, M. L., Gonçalves, K. C. M., Mendonça, M. J. (2023). Spatio-Temporal Instrumental Variables Regression with Missing Data: A Bayesian Approach. _Computational Economics_, 62(1), 29-47. <br>
   [[link]](https://doi.org/10.1007/s10614-022-10269-z) [[code]](https://github.com/marcuslavagnole/SpatioTemporal_IV_regression)
