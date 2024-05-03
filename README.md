@@ -14,8 +14,7 @@
 
 ### _Cross-disciplinary_ 
 
-- Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. _Security Journal_ (to appear). <br>
-(with [Leonardo M. Barreto](https://www.linkedin.com/in/leonardo-moog-87b182180/)). <br>
+- Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. _Security Journal_ (to appear). <br>
 [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
 
 ### _Pre-Doctoral_
