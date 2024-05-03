@@ -9,10 +9,14 @@
 -->
 ### _Statistics_
 
-- Nascimento, M. L., Gonçalves, K. C. M. Bayesian quantile regression models for complex survey data under informative sampling. To appear in the _Journal of Survey Statistics and Methodology_. <br> 
+- Nascimento, M. L., Gonçalves, K. C. M. Bayesian quantile regression models for complex survey data under informative sampling. _Journal of Survey Statistics and Methodology_ (to appear). <br> 
   [[link]](https://doi.org/10.1093/jssam/smae015) [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
 ### _Cross-disciplinary_ 
+
+- Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. _Security Journal_ (to appear). <br>
+(with [Leonardo M. Barreto](https://www.linkedin.com/in/leonardo-moog-87b182180/)). <br>
+[[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
 
 ### _Pre-Doctoral_
 
