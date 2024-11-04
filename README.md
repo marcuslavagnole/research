@@ -14,7 +14,7 @@
 
 ### _Cross-disciplinary_ 
 
-- Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. _Security Journal_ (to appear). <br>
+- Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. _Security Journal_, 37(4), 1597-1618, 2024. <br>
   [[link]](https://doi.org/10.1057/s41284-024-00433-5) [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
 
 ### _Pre-Doctoral_
