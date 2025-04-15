@@ -1,6 +1,6 @@
 ## Work in progress
 
-### _Survey statistics_
+#### _Survey statistics_
 
 - A Bayesian approach to multiple-output quantile regression analysis under informative sampling. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
@@ -25,7 +25,7 @@ _In preparation_ <br>
 [[preprint]](https://osf.io/fea6m/)
 
 
-# Publications
+## Publications
 
 ### _Survey statistics_
 
