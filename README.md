@@ -18,12 +18,12 @@ Submitted to the _International Statistical Review_ (Under review) <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Raphael Saldanha](https://rfsaldanha.github.io/)) <br>
 Submitted to _Public Health_ (Under review) <br>
 [[preprint]](https://www.medrxiv.org/content/10.1101/2024.01.12.24301163v1)
-
+<!--
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
 _In preparation_ <br>
 [[preprint]](https://osf.io/fea6m/)
-
+-->
 
 ## Publications
 
