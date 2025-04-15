@@ -4,19 +4,16 @@
 
 - A Bayesian approach to multiple-output quantile regression analysis under informative sampling. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
-Submitted to the _Journal of Survey Statistics and Methodology_ (Under review) <br>
 [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
 - An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression analysis under informative sampling. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
-Submitted to the _International Statistical Review_ (Under review) <br>
 [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
 #### _Applications_ 
 
 - Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Raphael Saldanha](https://rfsaldanha.github.io/)) <br>
-Submitted to _Public Health_ (Under review) <br>
 [[preprint]](https://www.medrxiv.org/content/10.1101/2024.01.12.24301163v1)
 <!--
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
