@@ -34,8 +34,7 @@ _In preparation_ <br>
 - Nascimento, M. L., Barreto, L. M. (2024). Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. _Security Journal_, 37(4), 1597-1618. <br>
   [[link]](https://doi.org/10.1057/s41284-024-00433-5) [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
 
-<!--
-### _Pre-Doctoral_
+#### _Pre-Doctoral_
 
 - Nascimento, M. L., Gonçalves, K. C. M., Mendonça, M. J. (2023). Spatio-Temporal Instrumental Variables Regression with Missing Data: A Bayesian Approach. _Computational Economics_, 62(1), 29-47. <br>
   [[link]](https://doi.org/10.1007/s10614-022-10269-z) [[code]](https://github.com/marcuslavagnole/SpatioTemporal_IV_regression)
@@ -51,4 +50,3 @@ _In preparation_ <br>
 
 - Nascimento, M. L., Becker, K. L., Mendonça, M. J. (2020). Implications of Brazilian Institutional Guidelines on Educational Efficiency. _Economía-LACEA Journal_, 21(1), 147-168. <br>
   [[link]](https://doi.org/10.1353/eco.2020.0009) [[code]](https://github.com/marcuslavagnole/Educational_efficiency)
--->
