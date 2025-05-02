@@ -27,7 +27,7 @@ _In preparation_ <br>
 #### _Survey statistics_
 
 - Nascimento, M. L., Gonçalves, K. C. M. (2024). Bayesian quantile regression models for complex survey data under informative sampling. _Journal of Survey Statistics and Methodology_, 12(4), 1105-1130. <br> 
-  [[link]](https://doi.org/10.1093/jssam/smae015) [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
+  [[link]](https://doi.org/10.1093/jssam/smae015) [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
 
 #### _Applications_ 
 
