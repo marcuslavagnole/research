@@ -37,7 +37,7 @@ _In preparation_ <br>
 #### _Pre-Doctoral_
 
 - Nascimento, M. L., Gonçalves, K. C. M., Mendonça, M. J. (2023). Spatio-Temporal Instrumental Variables Regression with Missing Data: A Bayesian Approach. _Computational Economics_, 62(1), 29-47. <br>
-  [[link]](https://doi.org/10.1007/s10614-022-10269-z) [[code]](https://github.com/marcuslavagnole/SpatioTemporal_IV_regression)
+  [[link]](https://doi.org/10.1007/s10614-022-10269-z) [[code]](https://github.com/marcuslavagnole/spatio_temporal_iv_regression)
 
 - Nascimento, M. L., Gonçalves, K. C. M. (2022). Bayesian variable selection in quantile regression with random effects: an application to Municipal Human Development Index. _Journal of Applied Statistics_, 49(13), 3436-3450. <br>
   [[link]](https://doi.org/10.1080/02664763.2021.1950654) [[code]](https://github.com/marcuslavagnole/Quantile_regression_MHDI)
