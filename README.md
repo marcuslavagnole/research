@@ -22,7 +22,8 @@
 
 <!---
 - Crop insurance losses in the Brazilian market. <br>
-(with [Rodrigo S. Targino](https://rtargino.netlify.app/)
+(with [Rodrigo S. Targino](https://rtargino.netlify.app/) <br>
+[[code]](https://github.com/marcuslavagnole/crop_insurance_losses)
 --->
 
 ## Publications
