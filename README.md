@@ -20,6 +20,10 @@
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
 [[preprint]](https://osf.io/fea6m/)
 
+<!---
+- Crop insurance losses in the Brazilian market. <br>
+(with [Rodrigo S. Targino](https://rtargino.netlify.app/)
+--->
 
 ## Publications
 
