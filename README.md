@@ -1,4 +1,3 @@
-<!---
 ## Work in progress
 
 #### _Statistics_
@@ -11,6 +10,9 @@
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
 
+- Mapping household food (in)security from aggregated survey-based areal data. <br>
+(with Gustavo S. Ferreira)
+
 #### _Cross-disciplinary_ 
 
 - Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths. <br>
@@ -21,6 +23,7 @@
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
 [[preprint]](https://osf.io/fea6m/)
 
+<!---
 - Crop insurance losses in the Brazilian market. <br>
 (with [Rodrigo S. Targino](https://rtargino.netlify.app/) <br>
 [[code]](https://github.com/marcuslavagnole/crop_insurance_losses)
