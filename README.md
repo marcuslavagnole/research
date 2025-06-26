@@ -10,7 +10,7 @@
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
 
-- Mapping household food (in)security from aggregated survey-based areal data. <br>
+- Mapping household food (in)security from survey-based areal data. <br>
 (with Gustavo S. Ferreira)
 
 #### _Cross-disciplinary_ 
