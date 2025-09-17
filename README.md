@@ -17,7 +17,7 @@
 
 - Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths. _R&R at Population Health Metrics_. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Raphael Saldanha](https://rfsaldanha.github.io/)) <br>
-[[preprint]](https://www.medrxiv.org/content/10.1101/2024.01.12.24301163v1)
+[[preprint]](https://www.medrxiv.org/content/10.1101/2024.01.12.24301163v1) [[code]](https://github.com/marcuslavagnole/neonatal_mortality)
 
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
