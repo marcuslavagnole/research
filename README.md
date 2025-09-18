@@ -11,7 +11,7 @@
 [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
 
 - Mapping household food (in)security from both aggregated and disaggregated survey-based areal data. <br>
-(with Gustavo S. Ferreira, Helton Graziadei)
+(with Gustavo S. Ferreira)
 
 #### _Cross-disciplinary_ 
 
