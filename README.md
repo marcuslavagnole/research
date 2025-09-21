@@ -18,7 +18,7 @@
 #### _Cross-disciplinary_ 
 
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
-(with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
+(with [Antonio P. Ramos](https://tomramos.github.io/), [Fábio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
 [[preprint]](https://osf.io/fea6m/)
 
 <!---
