@@ -31,7 +31,7 @@
 - Nascimento, M. L., Gonçalves, K. C. M. (2024). Bayesian quantile regression models for complex survey data under informative sampling. _Journal of Survey Statistics and Methodology_, 12(4), 1105-1130. <br> 
   [[link]](https://doi.org/10.1093/jssam/smae015) [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
 
-#### _Cross-disciplinary_ 
+#### _Health & Social Sciences_ 
 
 - Ramos, A. P., Caldieraro, F., Nascimento, M. L., Saldanha, R. (2025+). Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths. _Population Health Metrics_. <br>
   [[link]](https://www.medrxiv.org/content/10.1101/2024.01.12.24301163v1) [[code]](https://github.com/marcuslavagnole/neonatal_mortality)
