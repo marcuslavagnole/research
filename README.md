@@ -1,19 +1,13 @@
-## Working papers
+## Work in progress
 
 #### _Statistics_
-
-- A Bayesian approach to multiple-output quantile regression analysis under informative sampling. _R&R at the Journal of Survey Statistics and Methodology_. <br>
-(with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
-[[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
 
 - An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression analysis under informative sampling. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
 
-<!---
 - Mapping household food (in)security from both aggregated and disaggregated survey-based areal data. <br>
 (with Gustavo S. Ferreira)
---->
 
 #### _Cross-disciplinary_ 
 
@@ -30,6 +24,9 @@
 ## Publications
 
 #### _Statistics_
+
+- Nascimento, M. L., Gonçalves, K. C. M. (2025+). A Bayesian approach to multiple-output quantile regression analysis under informative sampling. _Journal of Survey Statistics and Methodology_. <br>
+[[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
 
 - Nascimento, M. L., Gonçalves, K. C. M. (2024). Bayesian quantile regression models for complex survey data under informative sampling. _Journal of Survey Statistics and Methodology_, 12(4), 1105-1130. <br> 
   [[link]](https://doi.org/10.1093/jssam/smae015) [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
