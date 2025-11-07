@@ -27,7 +27,7 @@
 #### _Statistics_
 
 - Nascimento, M. L., Gonçalves, K. C. M. (2025+). A Bayesian approach to multiple-output quantile regression analysis under informative sampling. _Journal of Survey Statistics and Methodology_. <br>
-[[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
+  [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
 
 - Nascimento, M. L., Gonçalves, K. C. M. (2024). Bayesian quantile regression models for complex survey data under informative sampling. _Journal of Survey Statistics and Methodology_, 12(4), 1105-1130. <br> 
   [[link]](https://doi.org/10.1093/jssam/smae015) [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
@@ -43,7 +43,7 @@
 #### _Software_ 
 
 - Taborda, T. R., Jiménez, J. C., Nascimento, M. L., Gonçalves, K. C. M. (2025). bayesQRsurvey: Bayesian Quantile Regression Models for Complex Survey Data Analysis. R package version 0.1.4. <br>
-  [[link]](https://doi.org/10.32614/CRAN.package.bayesQRsurvey)
+  [[link]](https://doi.org/10.32614/CRAN.package.bayesQRsurvey) [[code]](https://github.com/torodriguezt/bayesQRsurvey)
 
 #### _Pre-Doctoral_
 
