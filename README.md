@@ -40,7 +40,9 @@
 - Nascimento, M. L., Barreto, L. M. (2024). Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. _Security Journal_, 37(4), 1597-1618. <br>
   [[link]](https://doi.org/10.1057/s41284-024-00433-5) [[code]](https://github.com/marcuslavagnole/crime_forecast_reconciliation)
 
-#### _Health & Social Sciences_ 
+#### _Software_ 
+
+- Taborda, T. R., Jiménez, J. C., Nascimento, M. L., Gonçalves, K. C. M. (2025). bayesQRsurvey: Bayesian Quantile Regression Models for Complex Survey Data Analysis. R package version 0.1.4.
 
 #### _Pre-Doctoral_
 
