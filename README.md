@@ -42,7 +42,7 @@
 
 #### _Software_ 
 
-- Taborda, T. R., Jiménez, J. C., Nascimento, M. L., Gonçalves, K. C. M. (2025). bayesQRsurvey: Bayesian Quantile Regression Models for Complex Survey Data Analysis. R package version 0.1.4.
+- Taborda, T. R., Jiménez, J. C., Nascimento, M. L., Gonçalves, K. C. M. (2025). bayesQRsurvey: Bayesian Quantile Regression Models for Complex Survey Data Analysis. R package version 0.1.4. <br>
   [[link]](https://doi.org/10.32614/CRAN.package.bayesQRsurvey)
 
 #### _Pre-Doctoral_
