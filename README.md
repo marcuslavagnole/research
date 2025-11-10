@@ -1,7 +1,5 @@
 ## Working papers
 
-#### _Statistics_
-
 - An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression analysis under informative sampling. <br>
 [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
 
@@ -9,8 +7,6 @@
 - Mapping household food (in)security from both aggregated and disaggregated survey-based areal data. <br>
 (with Gustavo S. Ferreira)
 --->
-
-#### _Health & Social Sciences_ 
 
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fábio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
