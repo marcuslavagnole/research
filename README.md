@@ -23,7 +23,7 @@
 #### _Statistics_
 
 - Nascimento, M. L., Gonçalves, K. C. M. (2025+). A Bayesian approach to multiple-output quantile regression analysis under informative sampling. _Journal of Survey Statistics and Methodology_. <br>
-  [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
+  [[link]](https://doi.org/10.1093/jssam/smaf040) [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
 
 - Nascimento, M. L., Gonçalves, K. C. M. (2024). Bayesian quantile regression models for complex survey data under informative sampling. _Journal of Survey Statistics and Methodology_, 12(4), 1105-1130. <br> 
   [[link]](https://doi.org/10.1093/jssam/smae015) [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
